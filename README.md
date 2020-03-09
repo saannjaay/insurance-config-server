@@ -4,7 +4,9 @@ How to Test
 http://localhost:8881/config-server/default
 
 config-server = declare in eclips application.properties file 
+
 spring.cloud.config.name=config-server
+
 default means  =by default application.properties file data show in your browser
 
 
